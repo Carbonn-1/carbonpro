@@ -1,5 +1,5 @@
 <div align="center">
-    <h>THIS IS A FORK, GO TO MAIN FOR ORIGINAL<h>
+    <h>THIS IS A FORK, GO TO TOP AND FOLLOW THE LINK FOR ORIGINAL<h>
 <div>
 
 <div align="center">
